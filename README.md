@@ -8,7 +8,7 @@
 * `prettier`
 * `stylelint`
 * `husky`
-* `Andt`
+* `Antd`
 * `Typescript`
 * `less/scss`
 
